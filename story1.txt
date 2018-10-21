@@ -1,7 +1,8 @@
-Software part
+Software part and Electronic part
 Java,
 Python,
 Javascript,
 Php,
 React
 are best programming languages that i learn
+Electronic
