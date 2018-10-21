@@ -3,5 +3,7 @@ Java,
 Python,
 Javascript,
 Php,
-React
+React,
+Vuejs,
+Angularjs
 are best programming languages that i learn
